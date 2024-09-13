@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Meet.NUG</string>
+    <string name="restriction_server_url_description">URL of Meet.NUG server instance to connect to</string>
+    <string name="restriction_server_url_title">Server URL</string>
+</resources>
